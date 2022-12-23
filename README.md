@@ -18,8 +18,8 @@ On path to become software tester.
 
 ## Courses 
 * [Postman Beginner's Course - API Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4&t=4360s)
-* [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/) [Certyfikat](https://drive.google.com/file/d/1KDqbiV5OUKk2y1oH2YbZUCZnpChS03uV/view?usp=share_link)
-* Back-end Developer: Python w Coders Lab [Dyplom](https://drive.google.com/file/d/16xu8TbOw8gppsEe1-tDURVC8sRtP-yvr/view?usp=sharing) [Suplement do dyplomu](https://drive.google.com/file/d/1b4TYCtzn6zt7yGcTYLIREUFPeR8eRJ1n/view?usp=sharing)
+* [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/) [certyfikat](https://drive.google.com/file/d/1KDqbiV5OUKk2y1oH2YbZUCZnpChS03uV/view?usp=share_link)
+* Back-end Developer: Python w Coders Lab [dyplom](https://drive.google.com/file/d/16xu8TbOw8gppsEe1-tDURVC8sRtP-yvr/view?usp=sharing) [suplement do dyplomu](https://drive.google.com/file/d/1b4TYCtzn6zt7yGcTYLIREUFPeR8eRJ1n/view?usp=sharing)
 
 
 ## Technical Books read
