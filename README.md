@@ -2,24 +2,28 @@
 
 ## About me
 
-On path to become software tester.
+Recently i've decided to change my career and become a software tester.
+Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
+
+I would love to apply obtained knowledge to testing an operational product and gain hands-on experience.
 
 ## Tech skills and tools
 
 * Python, Django, Django REST framework, Flask
-* Java Script basics
-* HTML, CSS
+* Java Script basicsgit 
+* HTML, CSS basics
 * Java - in progress
 * SQL
+* Pytest
 * Postman
 * Git
 * Scrum
 * JIRA, Trello, TestLink
 
 ## Courses 
-* [Postman Beginner's Course - API Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4&t=4360s)
-* [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/) [*certyfikat*](https://drive.google.com/file/d/1KDqbiV5OUKk2y1oH2YbZUCZnpChS03uV/view?usp=share_link)
-* Back-end Developer: Python w Coders Lab [*dyplom*](https://drive.google.com/file/d/16xu8TbOw8gppsEe1-tDURVC8sRtP-yvr/view?usp=sharing) [*suplement do dyplomu*](https://drive.google.com/file/d/1b4TYCtzn6zt7yGcTYLIREUFPeR8eRJ1n/view?usp=sharing)
+* [Postman Beginner's Course - API Testing] on freeCodeCamp (https://www.youtube.com/watch?v=VywxIQ2ZXw4&t=4360s)
+* [Praktyczny kurs testowania oprogramowania] on Udemy (https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/) [*certificate*](https://drive.google.com/file/d/1KDqbiV5OUKk2y1oH2YbZUCZnpChS03uV/view?usp=share_link)
+* Back-end Developer: Python in Coders Lab [*diploma*](https://drive.google.com/file/d/16xu8TbOw8gppsEe1-tDURVC8sRtP-yvr/view?usp=sharing) [*diploma supplement*](https://drive.google.com/file/d/1b4TYCtzn6zt7yGcTYLIREUFPeR8eRJ1n/view?usp=sharing)
 
 
 ## Technical Books read
@@ -39,8 +43,13 @@ On path to become software tester.
 
 ## My Test Documentation
 
-Comming soon
+* [Bug report recrute.pl](https://docs.google.com/document/d/1krg0fCQccVD1tERCQ4p7nJ4MJSTCCO_7/edit?usp=share_link&ouid=112581345490725495717&rtpof=true&sd=true)
+* [Bug report dolcegabbana.com](https://drive.google.com/file/d/1Xv5XGrdsLnipFkbqWF8ZPY6MtJ0unE27/view?usp=share_link)
 
+
+## Programming example
+
+* [Trainer helper](https://github.com/LukaszMirek/Trainer-helper.git)
 
 
 
