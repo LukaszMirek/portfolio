@@ -2,7 +2,7 @@
 
 ## About me
 
-Recently i've decided to change my career and become a software tester.
+Recently I've decided to change my career and become a software tester.
 Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
 
 I would love to apply obtained knowledge to testing an operational product and gain hands-on experience.
