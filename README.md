@@ -2,7 +2,7 @@
 
 ## About me
 
-Recently i've decided to change my career and become a software tester.
+Recently I've decided to change my career and become a software tester.
 Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
 
 I would love to apply obtained knowledge to testing an operational product and gain hands-on experience.
@@ -28,7 +28,7 @@ I would love to apply obtained knowledge to testing an operational product and g
 
 ## Technical Books read
 
-* "Pasja testowanie" Krzysztof Jadczyk
+* "Pasja testowania" Krzysztof Jadczyk
 * "Certyfikowany tester ISTQB poziom podstawowy" Adam Roman, Lucjan Stapp, wydanie 2020
 * "Praktyka testowania. Zeszyt ćwiczeń" Radosław Smilgin
 * ["Testowanie oprogramowania" Piotr Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/) 
@@ -44,12 +44,9 @@ I would love to apply obtained knowledge to testing an operational product and g
 ## My Test Documentation
 
 * [Bug report recrute.pl](https://docs.google.com/document/d/1krg0fCQccVD1tERCQ4p7nJ4MJSTCCO_7/edit?usp=share_link&ouid=112581345490725495717&rtpof=true&sd=true)
-* [Bug report dolcegabbana.com](https://drive.google.com/file/d/1Xv5XGrdsLnipFkbqWF8ZPY6MtJ0unE27/view?usp=share_link)
 
 
-## Programming example
 
-* [Trainer helper](https://github.com/LukaszMirek/Trainer-helper.git)
 
 
 
